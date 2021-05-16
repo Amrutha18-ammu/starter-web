@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+ Create a new file and adding few contents in it 

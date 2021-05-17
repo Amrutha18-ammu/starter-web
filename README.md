@@ -15,3 +15,7 @@ Sample website with plenty of files for demos# starter Web Page
  This is for rebase purpose 
  Hey i'm working on stash commands 
  I'm working on stash commands changes 
+ hey i'm working on stash commands
+ this is is a simple example
+ hey this is my new edited file
+ i will be editing my file in stash files .
